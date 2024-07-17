@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 
 . !text !filter !merge !diff
+=======
+*.glb diff=lfs merge=lfs -text
+>>>>>>> cec103501e66bb2041581a40b0a65b8cf0e6e55e
